@@ -1,0 +1,27 @@
+_repo: The-Masque-of-the-Elements_26675
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scheffauer, Herman George
+    alias: Scheffauer, Hermann Georg
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '32166'
+    url: http://www.gutenberg.org/2009/agents/32166
+description: ''
+gutenberg_issued: '2008-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: The Masque of the Elements
+url: http://www.gutenberg.org/ebooks/26675
